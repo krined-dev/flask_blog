@@ -1,0 +1,5 @@
+[mysqlDB]
+host = IP ADDR
+db = DB NAME
+user = USERNAME
+pass = PASSWORD
